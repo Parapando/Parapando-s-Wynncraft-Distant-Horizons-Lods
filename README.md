@@ -1,4 +1,4 @@
-My (Parapando's) version of Wynncraft's (Minecraft server) Distant Horizon (Mod) preloaded chunks.
+My (Parapando's) version of Wynncraft's (Minecraft server) Distant Horizon (Mod) preloaded chunks (LODs) files.
 
 Quality presets are: Medium. (I also recommend to set the Cave Culling option to "False")
 
